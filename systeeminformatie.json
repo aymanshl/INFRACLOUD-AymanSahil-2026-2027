@@ -1,0 +1,14 @@
+{
+    "computernaam": "ayman-VirtualBox",
+    "computermodel": "x86_64",
+    "processor": "",
+    "aantal_fysieke_cpu_cores": 2,
+    "maximale_cpu_frequentie_mhz": 0.0,
+    "totale_hoeveelheid_ram_gb": 3.32,
+    "bestandssysteem_opslag": "ext4",
+    "opslagcapaciteit_gb": 39.07,
+    "mac_adres_primaire_nic": "08:00:27:90:f2:2a",
+    "ipv4_adres_primaire_nic": "10.0.2.15",
+    "ipv6_adres_primaire_nic": "fd17:625c:f037:2:a00:27ff:fe90:f22a",
+    "ipv6_link_local_adres_primaire_nic": "fe80::a00:27ff:fe90:f22a"
+}
